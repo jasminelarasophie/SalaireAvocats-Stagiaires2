@@ -24,7 +24,6 @@ La visualisation des données est présentée sous forme de deux cartes géograp
 ![Image carte Suisse](https://github.com/jasminelarasophie/SalaireAvocats-Stagiaires2/blob/main/Avocats-Stagiaire%20rendu%202/screenshot.png?raw=true)
 
 
-
 Résultats principaux 
 
 Les résultats de cette visualisation révèlent des différences significatives dans les salaires des avocats-stagiaires entre les cantons suisses. Certains cantons, comme Zurich, affichent des salaires moyens plus élevés, ce qui pourrait être lié à des facteurs économiques et de coût de la vie spécifique à chaque région. 
